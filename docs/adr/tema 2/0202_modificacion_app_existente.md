@@ -57,8 +57,8 @@ uno de los iconos que dá a elegir android studio
 Porque es el sitio donde la app ya coloca sus acciones, y el boton de búsqueda está en el mismo bloque
 actions
  
-![imagen1.png](res/imagenes/imagen1.png)
-![imagen2.png](res/imagenes/imagen2.png)
+![imagen1.png](../../res/imagenes/imagen1.png)
+![imagen2.png](../../res/imagenes/imagen2.png)
 
 Código modificado: [repositorio](https://github.com/AlexAP3611/compose-samples/tree/a2-2-boton-info) · 
 [commit con el cambio](https://github.com/AlexAP3611/compose-samples/commit/a95b6fab64ad870b8c1abf7e3384c23ccc45360a)

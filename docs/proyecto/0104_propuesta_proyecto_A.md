@@ -80,10 +80,10 @@ punto de la ruta está
 
 > Dibuja las pantallas principales. A mano y fotografiado es válido.
 > Pega aquí las imágenes o indica el nombre de los archivos adjuntos.
-Mapa: ![mapa.jpg](res/bocetos/mapa.jpg)
-Información ruta: ![informacion_ruta.jpg](res/bocetos/informacion_ruta.jpg)
-Información: ![informacion.jpg](res/bocetos/informacion.jpg)
-Ajustes: ![ajustes.jpg](res/bocetos/ajustes.jpg)
+Mapa: ![mapa.jpg](../res/bocetos/mapa.jpg)
+Información ruta: ![informacion_ruta.jpg](../res/bocetos/informacion_ruta.jpg)
+Información: ![informacion.jpg](../res/bocetos/informacion.jpg)
+Ajustes: ![ajustes.jpg](../res/bocetos/ajustes.jpg)
 ---
 
 ## 7 · Qué datos guarda la app

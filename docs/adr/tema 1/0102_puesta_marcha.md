@@ -1,9 +1,9 @@
 Teléfono pequeño antiguo, Nexus 4
 
 Vertical:
-![nexus4.png](res/nexus4.png)
+![nexus4.png](../../res/nexus4.png)
 Horizontal:
-![nexus4_horizontal.png](res/nexus4_horizontal.png)
+![nexus4_horizontal.png](../../res/nexus4_horizontal.png)
 
 Características:
 - Perfil: Nexus 4
@@ -14,9 +14,9 @@ Características:
 Teléfono actual, Pixel 7
 
 Vertical:
-![pixel7.png](res/pixel7.png)
+![pixel7.png](../../res/pixel7.png)
 Horizontal:
-![pixel7_horizontal.png](res/pixel7_horizontal.png)
+![pixel7_horizontal.png](../../res/pixel7_horizontal.png)
 
 Características:
 - Perfil: Nexus 4
@@ -27,9 +27,9 @@ Características:
 Tablet, Small Tablet
 
 Vertical:
-![tablet_pequena_vertical.png](res/tablet_pequena_vertical.png)
+![tablet_pequena_vertical.png](../../res/tablet_pequena_vertical.png)
 Horizontal:
-![tablet_pequena_horizontal.png](res/tablet_pequena_horizontal.png)
+![tablet_pequena_horizontal.png](../../res/tablet_pequena_horizontal.png)
 
 Características:
 - Perfil: Small Tablet
