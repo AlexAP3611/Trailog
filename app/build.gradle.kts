@@ -3,13 +3,13 @@ plugins {
 }
 
 android {
-    namespace = "com.example.proyecto"
+    namespace = "com.example.trailog"
     compileSdk {
         version = release(37)
     }
 
     defaultConfig {
-        applicationId = "com.example.proyecto"
+        applicationId = "com.example.trailog"
         minSdk = 24
         targetSdk = 37
         versionCode = 1
@@ -32,7 +32,9 @@ android {
 }
 
 dependencies {
+    implementation(libs.androidx.activity.ktx)
     implementation(libs.androidx.appcompat)
+    implementation(libs.androidx.constraintlayout)
     implementation(libs.androidx.core.ktx)
     implementation(libs.material)
     testImplementation(libs.junit)
