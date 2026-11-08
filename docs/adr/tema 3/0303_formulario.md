@@ -1,7 +1,5 @@
 # Formulario de nuevo usuario
 
-Código: [repositorio del proyecto de prueba](URL_DEL_REPOSITORIO) · [commit de la actividad](URL_DEL_COMMIT)
-
 ## Qué componentes de entrada de datos has usado y para qué
 
 - `OutlinedTextField` (dos): uno para el nombre y otro para el correo electrónico. Cada uno recibe el 
