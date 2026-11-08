@@ -15,3 +15,5 @@ La elección depende del volumen de datos: en la actividad anterior usé una `Co
 porque eran pocas y fijas, y aquí uso `LazyColumn` porque el número de apps es mayor y puede crecer.
 
 ![0302_resultado.png](../../res/imagenes/0302_resultado.png)
+
+![commit de la actividad](https://github.com/AlexAP3611/practicas-compose/commit/968c333a8d61c087cb9f44ad767effd629b36056)
