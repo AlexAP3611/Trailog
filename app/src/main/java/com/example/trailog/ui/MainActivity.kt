@@ -13,7 +13,7 @@ class MainActivity : ComponentActivity() {
         enableEdgeToEdge()
         setContent {
             TrailogTheme {
-                Text("Trailog con Compose")
+                TrailogApp()
             }
         }
     }
